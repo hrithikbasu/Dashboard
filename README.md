@@ -1,2 +1,2 @@
 # Dashboard
-So i have created an Excel realtime Dashboard which uses the functions of Vlookup and data validation lists and created a realtime daskboard
+Designed and developed an interactive real-time dashboard in Excel leveraging VLOOKUP and Data Validation lists to create dynamic filtering and reporting. The dashboard enables users to select criteria from dropdown menus and instantly view updated insights, making data exploration seamless and intuitive. Structured formulas and validation rules ensure accuracy, while the layout provides a clear visualization of key metrics for decision-making.
